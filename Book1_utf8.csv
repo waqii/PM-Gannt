@@ -1,0 +1,29 @@
+﻿task,start,finish
+Confirm user requirements,02/01/2020,08/01/2020
+Produce options for solutions to user requirements,09/01/2020,15/01/2020
+Negotiate with hardware suppliers,16/01/2020,26/02/2020
+Negotiate with consultancy form,,
+Quality review stage 2,27/02/2019,28/02/2020
+Senior management meet to decide on which option to choose,28/02/2020,28/02/2020
+Produce analysis documentation specifying users’ needs,02/03/2020,12/03/2020
+Quality review analysis,12/03/2020,12/03/2020
+Management approve and sign contracts,13/03/2020,13/03/2020
+Delivery of hardware,14/03/2020,17/03/2020
+Install clusters in the computer suite,18/03/2020,02/04/2020
+Load system software,03/04/2020,06/04/2020
+Install all cabling for workstations and printers,07/04/2020,14/04/2020
+"Install workstations, printers and internet connection",15/04/2020,17/04/2020
+Perform basic system test to ensure hardware is working,20/04/2020,21/04/2020
+Perform basic test of internet connection,22/04/2020,23/04/2020
+Load and configure Hadoop,24/04/2020,08/05/2020
+Perform basic test of Hadoop,11/05/2020,17/05/2020
+Quality review Hardware and Hadoop installation,18/05/2020,19/05/2020
+Prepare user instructions,20/05/2020,29/05/2020
+Prepare user training,01/06/2020,09/06/2020
+Prepare user acceptance test plans,10/06/2020,18/06/2020
+"Quality review the instructions, training and acceptance test",19/06/2020,23/06/2020
+Train end users,24/06/2020,26/06/2020
+Perform user acceptance test,29/06/2020,29/06/2020
+Quality review the implementation of training and acceptance tests,30/06/2020,30/06/2020
+Review project,01/07/2020,14/07/2020
+Authorise live use,15/07/2020,15/07/2020

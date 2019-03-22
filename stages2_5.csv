@@ -1,0 +1,29 @@
+﻿Task,Start,Finish,Complete,Resource
+Confirm user requirements,2020-01-02,2020-01-08,,Requirements analyst
+Produce options for solutions to user requirements,2020-01-09,2020-01-15,,Requirements analyst
+Negotiate with hardware suppliers,2020-01-16,2020-02-26,,Purchase Officer
+Negotiate with consultancy form,2020-01-09,2020-01-15,,
+Quality review stage 2,2019-02-27,2020-02-28,,Quality review team
+Senior management meet to decide on which option to choose,2020-02-28,2020-02-29,,Project Management Committee
+Produce analysis documentation specifying users’ needs,2020-03-02,2020-03-12,,Systems analyst
+Quality review analysis,2020-03-12,2020-03-13,,Quality review team
+Management approve and sign contracts,2020-03-13,2020-03-14,,Project Management Committee
+Delivery of hardware,2020-03-14,2020-03-17,,
+Install clusters in the computer suite,2020-03-18,2020-04-02,,Computer technician
+Load system software,2020-04-03,2020-04-06,,Computer technician
+Install all cabling for workstations and printers,2020-04-07,2020-04-14,,Computer technician
+"Install workstations, printers and internet connection",2020-04-15,2020-04-17,,Computer technician
+Perform basic system test to ensure hardware is working,2020-04-20,2020-04-21,,Systems engineer
+Perform basic test of internet connection,2020-04-22,2020-04-23,,Systems engineer
+Load and configure Hadoop,2020-04-24,2020-05-08,,Systems engineer
+Perform basic test of Hadoop,2020-05-11,2020-05-17,,Systems engineer
+Quality review Hardware and Hadoop installation,2020-05-18,2020-05-19,,Quality review officer
+Prepare user instructions,2020-05-20,2020-05-29,,Software support officer
+Prepare user training,2020-06-01,2020-06-09,,Software support officer
+Prepare user acceptance test plans,2020-06-10,2020-06-18,,Software support officer
+"Quality review the instructions, training and acceptance test",2020-06-19,2020-06-23,,Quality review officer
+Train end users,2020-06-24,2020-06-26,,Software support officer
+Perform user acceptance test,2020-06-29,2020-06-30,,Software support officer
+Quality review the implementation of training and acceptance tests,2020-06-30,2020-07-01,,Quality review officer
+Review project,2020-07-01,2020-07-14,,Quality review officer
+Authorise live use,2020-07-15,2020-07-16,,Project Management Committee
